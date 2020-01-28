@@ -7,6 +7,7 @@ class ChatMessage extends StatelessWidget {
 
   ChatMessage({this.text});
 
+  //testing push comment
   @override
   Widget build(BuildContext context) {
     return new Container(
